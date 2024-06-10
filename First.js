@@ -15,3 +15,7 @@ console.log(firstName + " " + lastName);
 //variable and declaration rules
 //1- Variable name must not starts with numbers
 //2- Variable name must not starts and ends with operators
+let var1 = "Maisum Ali";
+const var2 = "3.144";
+var var3 = "Hello World!";
+console.log(...var1, " ", ...var2, " ", ...var3);
